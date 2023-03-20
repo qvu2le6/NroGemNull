@@ -1,0 +1,2 @@
+# NroGemNull
+Về game nro
